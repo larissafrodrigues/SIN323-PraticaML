@@ -23,9 +23,9 @@ O conjunto de dados Breast Cancer é frequentemente utilizado para tarefas de cl
 Você pode executar os tutoriais práticos no Google Colab, um ambiente de notebook interativo baseado em nuvem. Siga as etapas abaixo:
 
 1. Clique nos links dos notebooks abaixo para abrir o notebook desejado no Colab:
-   - [:tulip: Tutorial Iris](https://colab.research.google.com/github/seu-usuario/aula-pratica-ia/blob/main/iris_tutorial.ipynb)
-   - [:wine_glass: Tutorial Wine](https://colab.research.google.com/github/seu-usuario/aula-pratica-ia/blob/main/wine_tutorial.ipynb)
-   - [🎗️ Tutorial Breast Cancer](https://colab.research.google.com/github/seu-usuario/aula-pratica-ia/blob/main/breast_cancer_tutorial.ipynb)
+   - [:tulip: Tutorial Iris](https://github.com/larissafrodrigues/SIN323-PraticaML/blob/main/Tutorial_Iris.ipynb)
+   - [:wine_glass: Tutorial Wine]()
+   - [🎗️ Tutorial Breast Cancer]()
 
 2. No Colab, clique em "Copiar para o Drive" para criar uma cópia do notebook no seu Google Drive.
 
