@@ -24,7 +24,7 @@ Você pode executar os tutoriais práticos no Google Colab, um ambiente de noteb
 
 1. Clique nos links dos notebooks abaixo para abrir o notebook desejado no Colab:
    - [:tulip: Tutorial Iris](https://github.com/larissafrodrigues/SIN323-PraticaML/blob/main/Tutorial_Iris.ipynb)
-   - [:wine_glass: Tutorial Wine]()
+   - [:wine_glass: Tutorial Wine](https://github.com/larissafrodrigues/SIN323-PraticaML/blob/main/Wine_Tutorial_Sklearn.ipynb)
    - [🎗️ Tutorial Breast Cancer]()
 
 2. No Colab, clique em "Copiar para o Drive" para criar uma cópia do notebook no seu Google Drive.
